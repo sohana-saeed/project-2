@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(195, 255, 0);
+    padding: 25px;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+
+}
+
+.hh {
+    text-align: center;
+    background-image: url(./images/tomb.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 350px;
+
+}
+
+.hero {
+    color: aliceblue;
+    text-align: center;
+}
+
+.fah {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: orange;
+    text-align: center;
+    padding: 15px;
+}
